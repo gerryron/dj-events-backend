@@ -19,6 +19,7 @@
     "@strapi/plugin-users-permissions": "4.1.1",
     "@strapi/provider-upload-cloudinary": "^4.1.1",
     "@strapi/strapi": "4.1.1",
+    "slugify": "^1.6.5",
     "sqlite3": "5.0.2"
   },
   "author": {
